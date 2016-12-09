@@ -1,0 +1,65 @@
+[
+    {
+      "id": "1",
+      "name": "Wall Pushup",
+      "movements": ["2"],
+      "progressions": "5"
+    },
+    {
+      "id": "2",
+      "name": "Incline Pushup",
+      "movements": ["2"],
+      "progressions": ["5"],
+      "prerequisite": "1"
+    },
+    {
+      "id": "3",
+      "name": "Pushup",
+      "movements": ["2"],
+      "description": "Perform a pushup, but with your hands close together so that your thumb and forefinger form a diamond. If you have trouble doing this, start with a regular push-up, and gradually move your hands closer together over the course of many workouts.",
+      "progressions": ["5"],
+      "prerequisite": "2"
+    },
+    {
+      "id": "4",
+      "name": "Diamond Pushup",
+      "description": "Perform a pushup, but with your hands close together so that your thumb and forefinger form a diamond. If you have trouble doing this, start with a regular push-up, and gradually move your hands closer together over the course of many workouts.",
+      "movements": ["2"],
+      "progressions": ["5"],
+      "prerequisite": "3"
+    },
+    {
+      "id": "5",
+      "name": "Parallel Bar support",
+      "movements": ["4"],
+      "progressions": ["3"]
+    },
+    {
+      "id": "6",
+      "name": "Ring Support",
+      "movements": ["4"],
+      "progressions": ["18"],
+      "prerequisite": "5"
+    },
+    {
+      "id": "7",
+      "name": "Parallel Bar Dips",
+      "movements": ["4"],
+      "progressions": ["3"],
+      "prerequisite": "6"
+    },
+    {
+      "id": "8",
+      "name": "Ring Dips",
+      "movements": ["4"],
+      "progressions": ["18"]
+    },
+    {
+      "id": "9",
+      "name": "Ring Dips in L-sit",
+      "movements": ["4"],
+      "progressions": ["18"],
+      "prerequisite": "8"
+    }
+
+]
