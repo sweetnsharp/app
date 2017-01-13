@@ -5008,16 +5008,7 @@
   {
     "name": "dfg",
     "abbreviation": "dfgd",
-    "prerequisite": {
-      "id": "584ad4795d2a6aa6a462b8c9",
-      "name": "this is the title in inglishCelui ci c'est le titre en francais",
-      "abbreviation": "Wall HS",
-      "prerequisites": [
-        12312,
-        323
-      ],
-      "description": "## Welcome to the Recommended Routine\n\nFor translations of this page in other languages, see the bottom of this page.\n\nPLEASE FOLLOW THE LINKS TO THE EXERCISE PAGES AND READ THEM THOROUGHLY\n\n### This routine will cover the following goals:\n\n- Strength\n- Muscle Gain (provided your diet is in check."
-    },
+    "prerequisite": "584ad4795d2a6aa6a462b8c9",
     "kinetic-chain": "CLOSE_KINETIC_CHAIN",
     "movement": "VERTICAL",
     "description": "dhdfgdf",
@@ -5031,5 +5022,14 @@
     "movement": "VERTICAL",
     "description": "Beschreibung",
     "id": "cixvzrp7m0000335n8dsno44n"
+  },
+  {
+    "name": "jojo",
+    "abbreviation": "ljksdf",
+    "prerequisite": "584ad479b9a9f1bfae4ef78f",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "VERTICAL",
+    "description": "sdfsd",
+    "id": "cixvzz4xw0000335nv8a8upzk"
   }
 ]
