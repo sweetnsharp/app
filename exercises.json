@@ -5008,10 +5008,28 @@
   {
     "name": "dfg",
     "abbreviation": "dfgd",
-    "prerequisite": "584ad4795d2a6aa6a462b8c9",
+    "prerequisite": {
+      "id": "584ad4795d2a6aa6a462b8c9",
+      "name": "this is the title in inglishCelui ci c'est le titre en francais",
+      "abbreviation": "Wall HS",
+      "prerequisites": [
+        12312,
+        323
+      ],
+      "description": "## Welcome to the Recommended Routine\n\nFor translations of this page in other languages, see the bottom of this page.\n\nPLEASE FOLLOW THE LINKS TO THE EXERCISE PAGES AND READ THEM THOROUGHLY\n\n### This routine will cover the following goals:\n\n- Strength\n- Muscle Gain (provided your diet is in check."
+    },
     "kinetic-chain": "CLOSE_KINETIC_CHAIN",
     "movement": "VERTICAL",
     "description": "dhdfgdf",
     "id": "cixvzq5cy0000335nciy1rc29"
+  },
+  {
+    "name": "Handstand Pushup",
+    "abbreviation": "HP",
+    "prerequisite": "584ad47945505c40ecf92ca2",
+    "kinetic-chain": "OPEN_KINETIC_CHAIN",
+    "movement": "VERTICAL",
+    "description": "Beschreibung",
+    "id": "cixvzrp7m0000335n8dsno44n"
   }
 ]
