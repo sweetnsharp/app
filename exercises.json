@@ -5031,5 +5031,14 @@
     "movement": "VERTICAL",
     "description": "sdfsd",
     "id": "cixvzz4xw0000335nv8a8upzk"
+  },
+  {
+    "name": "bla",
+    "abbreviation": "bli",
+    "prerequisite": "584ad479b9a9f1bfae4ef78f",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "STATIC",
+    "description": "dudu",
+    "id": "cixw003y80000335ntfgbfw0x"
   }
 ]
