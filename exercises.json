@@ -5049,5 +5049,14 @@
     "movement": "PULL",
     "description": "dfgdf",
     "id": "cixxcqh6y0000335nlga3ym2h"
+  },
+  {
+    "name": "sdf",
+    "abbreviation": "sdf",
+    "prerequisite": "584ad479b8ebdfe1ce06a749",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "HORIZONTAL",
+    "description": "sdfsd",
+    "id": "cixxfvlcb0000335nktcoe1bn"
   }
 ]
