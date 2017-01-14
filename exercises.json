@@ -5076,5 +5076,14 @@
     "kinetic-chain": "CLOSE_KINETIC_CHAIN",
     "movement": "PUSH",
     "description": "tzutz"
+  },
+  {
+    "id": "cixxhcstz0000335n5hwfxzi8",
+    "abbreviation": "abbre",
+    "prerequisite": "584ad479b9a9f1bfae4ef78f",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "PULL",
+    "description": "desc",
+    "name": "name"
   }
 ]
