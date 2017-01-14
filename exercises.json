@@ -1,5 +1,8 @@
 [
   {
+    "name": "hansi"
+  },
+  {
     "id": "584ad479bcb4942a57523de4",
     "name": "this is the title in inglishCelui ci c'est le titre en francais",
     "abbreviation": "Wall HS",
@@ -5058,5 +5061,14 @@
     "movement": "HORIZONTAL",
     "description": "sdfsd",
     "id": "cixxfvlcb0000335nktcoe1bn"
+  },
+  {
+    "name": "Push up",
+    "abbreviation": "PU",
+    "prerequisite": "584ad479b8ebdfe1ce06a749",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "PUSH",
+    "description": "Klimmzug",
+    "id": "cixxh3iiu0000335n59kd0gpz"
   }
 ]
