@@ -5102,5 +5102,14 @@
     "kinetic-chain": "OPEN_KINETIC_CHAIN",
     "movement": "PUSH",
     "description": "sdf"
+  },
+  {
+    "id": "ciy3hiuj40000335pyd0mk34g",
+    "name": "dfgdf",
+    "abbreviation": "dfgd",
+    "prerequisite": "584ad479bcb4942a57523de4",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "movement": "PULL",
+    "description": "dfgdf"
   }
 ]
