@@ -5093,5 +5093,14 @@
     "prerequisite": "584ad479b8ebdfe1ce06a749",
     "movement": "PULL",
     "description": "dfg"
+  },
+  {
+    "id": "ciy3h8do50000335p5qp39j60",
+    "name": "dfgdf",
+    "abbreviation": "sdf",
+    "prerequisite": "584ad479b9a9f1bfae4ef78f",
+    "kinetic-chain": "OPEN_KINETIC_CHAIN",
+    "movement": "PUSH",
+    "description": "sdf"
   }
 ]
