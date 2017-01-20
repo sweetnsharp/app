@@ -9,5 +9,14 @@
     "name": "tzu",
     "abbreviation": "tzu",
     "description": "tzu"
+  },
+  {
+    "id": "ciy5rh5ms0000335p7qvy9qs8",
+    "name": "dfgdf",
+    "abbreviation": "dfgdf",
+    "prerequisite": "ciy5rfttj0000335peu15ze64",
+    "kinetic-chain": "CLOSE_KINETIC_CHAIN",
+    "description": "sdf",
+    "movement": "HORIZONTAL"
   }
 ]
