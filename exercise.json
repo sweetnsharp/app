@@ -7,5 +7,11 @@
     "id": "cizmv9dmf0000kvyleon0btsk",
     "name": "dsfg",
     "abbreviation": "dh"
+  },
+  {
+    "id": "cizmvafqf0001kvyls0yxglub",
+    "name": "ghj",
+    "abbreviation": "ghj",
+    "prerequisite": "cizmv9dmf0000kvyleon0btsk"
   }
 ]
