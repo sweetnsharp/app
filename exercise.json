@@ -28,5 +28,14 @@
   {
     "id": "cizmvhmfx0004kvylu030t2zg",
     "name": "sam"
+  },
+  {
+    "id": "ciztt68vz00007vylbbr9afth",
+    "name": "öööööööööööööööö",
+    "abbreviation": "ghj",
+    "prerequisite": "cizmv9dmf0000kvyleon0btsk",
+    "movement": "STATIC",
+    "kinetic-chain": "OPEN_KINETIC_CHAIN",
+    "description": "..."
   }
 ]
