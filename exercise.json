@@ -70,5 +70,10 @@
     "id": "cizttksiq00087vylpf5gx2r5",
     "name": "samuel",
     "prerequisite": "cizk4h3bz000094pm2xhk0jd6"
+  },
+  {
+    "id": "cizttkynl00097vylh32pnwtx",
+    "name": "samuelh",
+    "prerequisite": "cizk4h3bz000094pm2xhk0jd6"
   }
 ]
